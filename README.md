@@ -1,5 +1,4 @@
-# Rivet Labs // AI Brand Intelligence System
-
+# [Rivet Labs](https://rivet-labs.ai.studio/)
 > Deterministic brand strategy, adversarial positioning, and production launch kits engineered for technical founders and modern product teams.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
