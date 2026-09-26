@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Overview
+##  Overview
 
 **Rivet Labs** is an AI-powered brand intelligence engine that transforms unformed, messy product ideas into battle-tested positioning strategies, strict visual design languages, adversarial critiques, and complete production-ready launch kits in seconds.
 
@@ -18,7 +18,7 @@ Instead of treating branding as decorative fluff or relying on lukewarm corporat
 
 ---
 
-## 🛠️ The 4-Stage Reasoning Pipeline
+##  The 4-Stage Reasoning Pipeline
 
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌────────────────────┐     ┌─────────────────────┐
@@ -73,7 +73,7 @@ Instead of treating branding as decorative fluff or relying on lukewarm corporat
 
 ---
 
-## 💻 Tech Stack & Engineering
+##  Tech Stack & Engineering
 
 | Domain | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -87,7 +87,7 @@ Instead of treating branding as decorative fluff or relying on lukewarm corporat
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 * **Node.js**: v18.0.0 or higher
@@ -139,7 +139,7 @@ Instead of treating branding as decorative fluff or relying on lukewarm corporat
 
 ---
 
-## 📐 Design Philosophy: Neo-Brutalist Engineering
+##  Design Philosophy: Neo-Brutalist Engineering
 
 Rivet Labs follows strict visual and ergonomic principles:
 * **Zero-Pill Discipline**: No pill-shaped tags or soft pastel bubbles. Form follows function through sharp 90-degree industrial borders and monospace telemetry.
