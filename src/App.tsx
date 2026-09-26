@@ -6,7 +6,6 @@ import {
   Check, 
   RotateCcw, 
   AlertTriangle, 
-  Github,
   Download,
   Share2,
   Code,
@@ -1130,15 +1129,6 @@ ${JSON.stringify(jsonLd, null, 2)}
             >
               Pro (Soon)
             </span>
-            <a 
-              href="https://github.com" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="text-zinc-400 hover:text-[#00FF41] transition-none p-1 border border-transparent hover:border-zinc-800"
-              aria-label="GitHub Repository"
-            >
-              <Github className="w-4 h-4" />
-            </a>
           </div>
 
         </div>

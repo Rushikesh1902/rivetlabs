@@ -2,5 +2,7 @@
   "name": "Rivet Labs",
   "description": "AI-powered brand intelligence turning rough ideas into launch-ready brand systems through a multi-stage reasoning workflow.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
