@@ -148,6 +148,3 @@ Rivet Labs follows strict visual and ergonomic principles:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
