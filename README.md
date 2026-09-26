@@ -8,9 +8,9 @@
 [![WCAG](https://img.shields.io/badge/WCAG-2.1_AA_Certified-00FF41?style=flat-square)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 ---
-```
-Live Demo : https://forms.gle/DbUNYb8BKyXiyDWn8
-```
+
+## [Video Explaination](https://drive.google.com/file/d/1sGEUscmvHgK1iVAsRilJ5c_vurhGPDx-/view?usp=sharing)
+
 ##  Overview
 
 **Rivet Labs** is an AI-powered brand intelligence engine that transforms unformed, messy product ideas into battle-tested positioning strategies, strict visual design languages, adversarial critiques, and complete production-ready launch kits in seconds.
